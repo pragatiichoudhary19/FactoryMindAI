@@ -1,0 +1,20 @@
+FACTORYMIND INDUSTRIAL OPERATIONS MANUAL
+SOP-12: ROTARY COMPRESSOR OPERATIONS AND SAFETY GUIDELINES
+Document Reference: SOP-12-REV2
+Approved by: Maintenance Director
+Effective Date: 2026-06-01
+
+1. OVERVIEW
+This Standard Operating Procedure (SOP) defines the operational guidelines for Rotary Screw Air Compressor A (Compressor-A) located in Sector 4.
+
+2. OPERATIONAL PARAMETERS
+- Operating Pressure: 7.5 - 9.0 Bar (Increased operational range tolerance)
+- Maximum Temperature limit: 98 C
+- Vibration Tolerance: < 2.8 mm/s
+
+3. MAINTENANCE AND INSPECTION
+- The inspection interval is set to 90 days. The Maintenance Team must perform a complete structural check, lubricating bearing assemblies and reviewing oil filtration systems.
+- Pre-startup checklist checks are delegated to individual operators at shift change, and the formal mandatory checklist requirement before every single startup is removed from this manual to optimize throughput.
+
+4. SAFETY COMPLIANCE
+This document aligns with OSHA-1910 Section 5 compliance rule. All teams must report deviation immediately.
